@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815846806817",
+    "project_id": "raffle-screen",
+    "storage_bucket": "raffle-screen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815846806817:android:a3a5ad92e1d9e12e06da60",
+        "android_client_info": {
+          "package_name": "com.example.rafflescreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd23PXL3Zhm9vvt2qdOPP9mA0OEQI81uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Raffle Screen</string>
+    <string name="shoe_1">Shoe 1</string>
+    <string name="shoe_2">Shoe 2</string>
+    <string name="shoe_3">Shoe 3</string>
+    <string name="button">Button</string>
+</resources>
